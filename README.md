@@ -14,7 +14,7 @@ Projeto desenvolvido em *Java com integração ao Oracle Database*, com o objeti
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - *Java*
 - *Oracle Database*
